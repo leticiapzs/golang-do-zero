@@ -5,7 +5,7 @@ import (
 	steph "strings"
 )
 
-func main() {
+// func main() {
 	fmt.Println("Hello, world!")
 
 	// sem alterar o nome do pacote,
